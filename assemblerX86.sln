@@ -9,7 +9,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab2asm", "laba2\lab2asm.vc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laba3", "..\Laba3\Laba3.vcxproj", "{E86219A5-A487-4989-94F2-FD1D40628F81}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laba4", "..\Laba4\Laba4.vcxproj", "{FEC89EDD-3B6A-408B-9018-70D469AEEE30}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laba4", "Laba4\Laba4.vcxproj", "{FEC89EDD-3B6A-408B-9018-70D469AEEE30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
